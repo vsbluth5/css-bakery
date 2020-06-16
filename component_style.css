@@ -1,5 +1,9 @@
 body {
-  
+ 
+  background-color: rgb(200, 230, 255);
+}
+h1, h2, h4, p {
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .container {
@@ -7,7 +11,7 @@ body {
   padding: 5%;
   margin: auto;
   background-color: rgb(245, 245, 245);
-  font-family: 'IBM Plex Sans', sans-serif;
+  
   
 }
 
@@ -25,7 +29,7 @@ body {
   width: 60%;
   padding: 15%;
   margin: auto;
-  background-color: rgb(200, 230, 255);
+  
   text-align:center;
 }
 
