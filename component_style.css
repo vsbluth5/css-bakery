@@ -4,9 +4,9 @@ body {
 
 .container {
   width: 80%;
-  padding: 15%;
+  padding: 5%;
   margin: auto;
-  background-color: rgb(222, 299, 255);
+  background-color: rgb(245, 245, 245);
   text-align: center;
 }
 
@@ -20,7 +20,12 @@ body {
 
 #subtitle {}
 
-.bread-card {}
+.bread-card {
+    width: 80%;
+  padding: 15%;
+  margin: auto;
+  background-color: rgb(222, 299, 255);
+}
 
 .bread-name {}
 
