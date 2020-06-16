@@ -1,0 +1,28 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.container {
+  width: 80%;
+  padding: 5%;
+  margin: auto;
+}
+
+.title-banner {}
+
+#main-title {}
+
+#subtitle {}
+
+.bread-card {}
+
+.bread-name {}
+
+.bread-image{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.bread-motto{}
+
+.bread-description{}
