@@ -8,27 +8,21 @@ h1, h3 {
 }
 
 h2 {
-  letter-spacing: 5px;
-}
-
-h4 {
-  text-align: left;
-  color: rgb(20, 20, 20);
+  
 }
 
 p {
   font-weight: 100;
-  text-
+  text-align: left;
+  line-height: 90%;
+  font-size: .8em
 }
 
 .container {
   width: 80%;
-  padding: 5%;
+  padding: 10%;
   margin: auto;
   ackground-color: rgb(245, 245, 245);
-  b
-  
-  
 }
 
 .title-banner {
@@ -54,7 +48,7 @@ p {
 }
 
 .bread-name {
-  
+  letter-spacing: 5px;
 }
 
 .bread-image{
@@ -62,6 +56,9 @@ p {
   margin-left: auto;
 }
 
-.bread-motto{}
+.bread-motto{
+  text-align: left;
+  color: rgb(120, 120, 120);
+}
 
 .bread-description{}
