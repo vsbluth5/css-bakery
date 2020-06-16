@@ -4,11 +4,17 @@ body {
 
 .container {
   width: 80%;
-  padding: 5%;
+  padding: 15%;
   margin: auto;
+  background-color: rgb(222, 299, 255);
+  text-align: center;
 }
 
-.title-banner {}
+.title-banner {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
 
 #main-title {}
 
